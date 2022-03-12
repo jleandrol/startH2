@@ -1,5 +1,7 @@
-INSERT INTO countries (id, name) VALUES (1, 'USA');
-INSERT INTO countries (id, name) VALUES (2, 'France');
-INSERT INTO countries (id, name) VALUES (3, 'Brazil');
-INSERT INTO countries (id, name) VALUES (4, 'Italy');
-INSERT INTO countries (id, name) VALUES (5, 'Canada');
+// See Entity Country.java with anotation @Entity
+INSERT INTO country (id, name, population) VALUES (1, 'USA', 300);
+INSERT INTO country (id, name, population) VALUES (2, 'France', 200);
+INSERT INTO country (id, name, population) VALUES (3, 'Brazil', 250);
+INSERT INTO country (id, name, population) VALUES (4, 'Italy', 150);
+INSERT INTO country (id, name, population) VALUES (5, 'Canada', 100);
+
