@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.lao.test</groupId>
-	<artifactId>cars-with-h2</artifactId>
+	<artifactId>rest-with-h2</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>cars-with-h2</name>
-	<description>test spring boot cars with h2 bd</description>
+	<name>rest-with-h2</name>
+	<description>test spring boot rest API with h2 bd</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
